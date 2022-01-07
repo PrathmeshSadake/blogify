@@ -4,8 +4,7 @@
   "description": "Blog Website",
   "main": "server.js",
   "scripts": {
-    "test": "nodemon server.js",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "author": "Prathmesh Sadake",
   "license": "ISC",
